@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Welcome extends CI_Controller {
+class Gallery extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -23,8 +23,13 @@ class Welcome extends CI_Controller {
 		parent::__construct();
 		$this->load->helper('html');
 	}
-	public function index()
+	public function kegiatan()
 	{
-		$this->load->view('home');
+		$this->load->view('gallery/kegiatan');
+    }
+    
+    public function keanggotaan()
+	{
+		$this->load->view('gallery/keanggotaan');
 	}
 }
