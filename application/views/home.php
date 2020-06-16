@@ -86,7 +86,7 @@
 
 	<main role="main">
 
-		<div id="myCarousel" class="carousel slide" data-ride="carousel" style="margin-top: 4em; ">
+		<div id="myCarousel" class="carousel slide" data-ride="carousel" style="margin-top: 4em;">
 			<ol class="carousel-indicators">
 				<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 				<li data-target="#myCarousel" data-slide-to="1"></li>
@@ -135,6 +135,9 @@
 			<span class="sr-only">Next</span>
 		</a>
 		</div>
+
+		<hr class="featurette-divider" style="margin-top: 5em">
+
 
 
 		<!-- Marketing messaging and featurettes

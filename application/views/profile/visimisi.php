@@ -70,54 +70,8 @@
 		<div class="container" style="margin-top: 5em; ">
 			<img src="<?= base_url()?>assets/img/slidekesatu.png" class="img-fluid" alt="1" style="margin-top: 1em; ">
 
-			<h3 style="margin-top: 3em; "><b>Sejarah KSR PMI Unit ITERA</b></h3>
+			<h3 style="margin-top: 3em; "><b>Visi KSR PMI Unit ITERA</b></h3>
 
-			<h6 style="margin-top: 2em; ">23 September 2016</h6>
-			<p style="margin-top: 1em; ">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac
-				cursus commodo, tortor
-				mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada
-				magna mollis euismod. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Fusce
-				dapibus, tellus ac cursus commodo, tortor
-				mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada
-				magna mollis euismod. Donec sed odio dui. </p>
-
-			<h6 style="margin-top: 2em; ">23 September 2016</h6>
-			<p style="margin-top: 1em; ">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac
-				cursus commodo, tortor
-				mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada
-				magna mollis euismod. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Fusce
-				dapibus, tellus ac cursus commodo, tortor
-				mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada
-				magna mollis euismod. Donec sed odio dui. </p>
-
-			<h6 style="margin-top: 2em; ">23 September 2016</h6>
-			<p style="margin-top: 1em; ">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac
-				cursus commodo, tortor
-				mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada
-				magna mollis euismod. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Fusce
-				dapibus, tellus ac cursus commodo, tortor
-				mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada
-				magna mollis euismod. Donec sed odio dui. </p>
-
-			<h6 style="margin-top: 2em; ">23 September 2016</h6>
-			<p style="margin-top: 1em; ">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac
-				cursus commodo, tortor
-				mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada
-				magna mollis euismod. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Fusce
-				dapibus, tellus ac cursus commodo, tortor
-				mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada
-				magna mollis euismod. Donec sed odio dui. </p>
-
-			<h6 style="margin-top: 2em; ">23 September 2016</h6>
-			<p style="margin-top: 1em; ">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac
-				cursus commodo, tortor
-				mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada
-				magna mollis euismod. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Fusce
-				dapibus, tellus ac cursus commodo, tortor
-				mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada
-				magna mollis euismod. Donec sed odio dui. </p>
-
-			<h6 style="margin-top: 2em; ">23 September 2016</h6>
 			<p style="margin-top: 1em; ">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac
 				cursus commodo, tortor
 				mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada
@@ -127,32 +81,19 @@
 				magna mollis euismod. Donec sed odio dui. </p>
 
 
-			<!-- Example row of columns -->
-			<!-- <div class="row" style="margin-top: 3em; ">
-				<div class="col-md-4">
-					<h2>Heading</h2>
-					<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor
-						mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada
-						magna mollis euismod. Donec sed odio dui. </p>
-					<p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
-				</div>
-				<div class="col-md-4">
-					<h2>Heading</h2>
-					<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor
-						mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada
-						magna mollis euismod. Donec sed odio dui. </p>
-					<p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
-				</div>
-				<div class="col-md-4">
-					<h2>Heading</h2>
-					<p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id
-						ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-						condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-					<p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
-				</div>
-			</div>-->
+				<h3 style="margin-top: 4em; "><b>Misi KSR PMI Unit ITERA</b></h3>
+			
+			<p style="margin-top: 1em; ">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac
+				cursus commodo, tortor
+				mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada
+				magna mollis euismod. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Fusce
+				dapibus, tellus ac cursus commodo, tortor
+				mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada
+				magna mollis euismod. Donec sed odio dui. </p>
 
+			
 			<hr> 
+			
 
 		</div> <!-- /container -->
 
